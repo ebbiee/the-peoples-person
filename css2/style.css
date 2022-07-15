@@ -1,0 +1,208 @@
+div{
+  background-color: red;
+  height: 50px;
+}
+#gk{
+  color: darkorchid;
+}
+.david{
+  width: 200px;
+  height: 40px;
+}
+h1{
+  color: black;
+}
+#ebb{
+  position: relative;
+  color: white;
+  width: 200px;
+  height: 360px;
+}
+.dav{
+  position: absolute;
+  top: 8px;
+  left: 16px
+ }
+ .div{
+  width: 0%;
+ }
+ .defend{
+  width: 800px;
+  position: fixed; 
+ }
+ .defnam{
+  position: absolute;
+  top: 480px;
+  left: 16px
+ }
+ .people{
+  width: 200px;
+  margin-bottom: 10px;
+ }
+ .container{
+  background-color: #dedede;
+  height: 80px;
+ }
+ .text{
+  color: white;
+  text-align: center;
+ }
+ .icon{
+  height: 50px;
+ }
+ .facebook{
+  background-color: #dedede;
+  color: #dedede;
+  margin-left: 850px;
+  width: 170px;
+  height: 50px;
+  margin-bottom: 20px;
+ }
+ #news,#meee{
+  display: inline-block;
+  margin-bottom: -20px;
+ }
+ #meee{
+  margin-left: 30px;
+ }
+ span{
+  position: absolute;
+  margin-left: 4cm;
+ }
+ .twitter{
+  margin-left: 900px;
+ }
+ .tive{
+  position: relative;
+ }
+ .tiv{
+  position: absolute;
+ }
+.inline{
+  background-image: url(../img/ten\ hag.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 343px;
+  height: 343px;
+  
+}
+#hags{
+  width: 383px;
+  height: 383px;
+}
+#mhag{
+  margin-bottom: 60px;
+  margin: 0%;
+  padding: 0%;
+} 
+.press{
+  color: white;
+}
+#manu{
+  text-align: center;
+  color: white;
+  margin-bottom: 120px;
+  position: absolute;
+  top: 90px;
+  right: 500px;
+}
+.inline,.inli,.inlin,.inlim{
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+}
+.inli{
+  background-image: url(../img/kalajdzic.jpeg);
+  width: 300px;
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  
+}
+.inlin{
+  background-image: url(../img/iqubal.jpeg);
+  width: 300px;
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.inlim{
+  background-image: url(../img/netherlands.jpeg);
+  width: 300px;
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.inner-arrow{
+  text-align: center;
+  color: white;
+  right: 20px;
+}
+.penci-border{
+  width: fit-content;
+  margin-left: 550px;
+  height: fit-content;
+}
+hr{
+  background-color: red;
+  height: 1px;
+  margin-bottom: 40px;
+  position: relative;
+  bottom: 20px;
+}
+.in{
+  position: relative;
+  top: 327px;
+  color: black;
+  background-color: white;
+
+}
+.inlinem{
+  background-image: url(../img/ten\ hag.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 393px;
+}
+.inlinm{
+  background-image: url(../img/iqubal.jpeg);
+  width: 400px;
+  height: 393px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.inlime{
+  background-image: url(../img/netherlands.jpeg);
+  width: 400px;
+  height: 393px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.inlinem,.inlinm,.inlime{
+  display: inline-block;
+}
+.tinez{
+  background-image: url(../img/lisandro.jpeg);
+  width: 400px;
+  height: 393px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.debeek{
+  background-image: url(../img/vandebeek.jpeg);
+  width: 400px;
+  height: 393px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.maguire{
+  background-image: url(../img/maguire.jpg);
+  width: 400px;
+  height: 393px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.tinez,.debeek,.maguire{
+  display: inline-block;
+}
+ 
