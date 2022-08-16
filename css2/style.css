@@ -162,24 +162,25 @@ hr{
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 400px;
-  height: 393px;
+  height: 360px;
 }
 .inlinm{
   background-image: url(../img/iqubal.jpeg);
   width: 400px;
-  height: 393px;
+  height: 360px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .inlime{
   background-image: url(../img/netherlands.jpeg);
   width: 400px;
-  height: 393px;
+  height: 360px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 .inlinem,.inlinm,.inlime{
   display: inline-block;
+
 }
 .tinez{
   background-image: url(../img/lisandro.jpeg);
